@@ -9,3 +9,9 @@
 <p>Produção de Musicas com o FL Studio   <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png?20210120065130"heigth="30" width="30"></p>
 <p>Produção de Imagens com o Photoshop   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"heigth="30" width="30"></p> 
 <p>Jogos Digitais  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LoL_icon.svg/2048px-LoL_icon.svg.png"heigth="30" width="30"></p> 
+<h2>Minhas Redes Sociais</h2>
+<div>
+<a href="https://github.com/MariMelo1"> <img height="180em" src="https://github-readmestats.vercel.app/api/top-langs/?username=MariMelo1&layout=compact&theme=dracula&show_icons=true" />
+<img loading="lazy" height="180em" src="https://github-readmestats.vercel.app/api?username=MariMelo1&show_icons=true&theme=dracula&include_all_commits=true&count
+_private=true"/>
+</div>
