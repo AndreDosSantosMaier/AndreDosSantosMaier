@@ -11,7 +11,6 @@
 <p>Jogos Digitais  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LoL_icon.svg/2048px-LoL_icon.svg.png"heigth="30" width="30"></p> 
 <h2>Minhas Redes Sociais</h2>
 <div>
-<a href="https://github.com/MariMelo1"> <img height="180em" src="https://github-readmestats.vercel.app/api/top-langs/?username=MariMelo1&layout=compact&theme=dracula&show_icons=true" />
-<img loading="lazy" height="180em" src="https://github-readmestats.vercel.app/api?username=MariMelo1&show_icons=true&theme=dracula&include_all_commits=true&count
-_private=true"/>
+<a href="https://www.instagram.com/andre_dos_santos_maier/"> <img height="180em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F18930413-logotipo-do-instagram-png-icone-do-instagram-transparente&psig=AOvVaw07_dFxdn20SrDiUgQrWDFc&ust=1691180544962000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPClr8-owYADFQAAAAAdAAAAABAY" />
+<img loading="lazy" height="180em" src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png"/>
 </div>
