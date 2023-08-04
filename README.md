@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">
 <h2>:star: Meus Hobbys</h2>
 <ul>
-<li><p>Já cheguei a ter produçao de musicas como hobby usando o FL Studio ⠀⠀⠀
+<li><p>Já cheguei a produzir musicas como hobby usando o FL Studio ⠀⠀⠀
 <img src="https://media.tenor.com/SG4Mic1ZZrQAAAAi/fl-studio-petpet.gif"heigth="50" width="50" align="middle">  
 </p> </li>
 
