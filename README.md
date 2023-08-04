@@ -3,9 +3,11 @@
 <p>Possuo um grande interesse na área de Back-end e Produção de Jogos</p>
 <h2>:floppy_disk: Ferramentas de Programação que estou aprendendo </h2>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"heigth="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"heigth="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"heigth="60" width="60">⠀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"heigth="60" width="60">⠀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">⠀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"heigth="60" width="60">⠀
+
 <h2>:star: Meus Hobbys</h2>
 <ul>
 <li><p>Já cheguei a produzir musicas como hobby usando o FL Studio ⠀⠀⠀
@@ -18,7 +20,8 @@
 </p> </li>
 
 <hr>
-<li><p>Gamer nas horas vagas<img src="https://media.tenor.com/-8-TfZ1GMIsAAAAi/kiwi-catscafe.gif" heigth="40" width="40"align="middle"> ⠀⠀
+<li><p>Gamer nas horas vagas⠀
+⠀<img src="https://media.tenor.com/-8-TfZ1GMIsAAAAi/kiwi-catscafe.gif" heigth="40" width="40"align="middle"> ⠀⠀
 
 <p>
 </p>
