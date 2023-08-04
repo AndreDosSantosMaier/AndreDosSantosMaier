@@ -1,6 +1,6 @@
-<h2>Olá, eu sou o André Maier, Seja bem vindo(a) ao meu github <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" heigth="30" width="30"></h2>
-<p>Atualmente estudante da SATC, Aluno do curso tecnico de informatica(2ªFase).</p>
-<p>Possuo um grande interesse na área de Back-end e Produção de Jogos</p>
+<h2>Olá, eu sou o André Maier, Seja bem vindo(a) ao meu github <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" heigth="45" width="45"></h2>
+<p>Atualmente estudante da SATC, Aluno do curso tecnico de informatica (2ªFase).</p>
+<p>Possuo um grande interesse na área de Back-end e Produção de Jogos.</p>
 <h2>:floppy_disk: Ferramentas de Programação que estou aprendendo </h2>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="60" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"heigth="60" width="60">⠀
