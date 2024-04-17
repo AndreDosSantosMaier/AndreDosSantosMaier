@@ -33,5 +33,5 @@
 <img height="180em" src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" />
 </a>
 <a href=""> 
-<img height="180em" src="https://cdn.icon-icons.com/icons2/2992/PNG/512/linkedin_logo_icon_187302.png" />
+<img width = 200 height = 200" src="https://cdn.icon-icons.com/icons2/2992/PNG/512/linkedin_logo_icon_187302.png" />
 </a>
