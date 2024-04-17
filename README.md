@@ -8,6 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">⠀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"heigth="60" width="60">⠀
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" heigth="60" width="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" heigth="60" width="60"/>
 
 <h2>:star: Meus Hobbys</h2>
 <ul>
