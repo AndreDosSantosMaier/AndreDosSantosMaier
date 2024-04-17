@@ -27,7 +27,7 @@
 </p>
 </ol>
 <hr>
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <h2>:iphone: Minhas Redes Sociais</h2>
 <div>
 <a href="https://www.instagram.com/andre_dos_santos_maier/"> 
