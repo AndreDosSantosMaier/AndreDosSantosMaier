@@ -30,8 +30,8 @@
 <h2>:iphone: Minhas Redes Sociais</h2>
 <div>
 <a href="https://www.instagram.com/andre_dos_santos_maier/"> 
-<img height="180em" src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" />
+<img heigth="200" width="200" src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" />
 </a>
 <a href=""> 
-<img heigth="200" width="200" src="https://cdn.icon-icons.com/icons2/2992/PNG/512/linkedin_logo_icon_187302.png" />
+<img  heigth="200" width="200" src="https://cdn.icon-icons.com/icons2/2992/PNG/512/linkedin_logo_icon_187302.png" />
 </a>
