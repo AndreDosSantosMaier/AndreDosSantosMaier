@@ -20,9 +20,7 @@
 </p> </li>
 
 <hr>
-<li><p>Gamer nas horas vagas⠀
-⠀<img src="https://media.tenor.com/-8-TfZ1GMIsAAAAi/kiwi-catscafe.gif" heigth="40" width="40"align="middle"> ⠀⠀
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <p>
 </p>
 </ol>
