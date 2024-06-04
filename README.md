@@ -8,7 +8,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"heigth="60" width="60">⠀
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" heigth="60" width="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" heigth="60" width="60"/>
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" heigth="60" width="60"/>
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" heigth="75" width="75"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" heigth="75" width="75"/>
 
 <h2>:star: Meus Hobbys</h2>
 <ul>
